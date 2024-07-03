@@ -1,0 +1,5 @@
+0 Ginger Cat
+1 Background
+2 Black Cat
+3 Calico Cat
+4 White Cat
